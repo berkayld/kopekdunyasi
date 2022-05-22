@@ -1,0 +1,2 @@
+# kopekdunyasi
+attempt for class
